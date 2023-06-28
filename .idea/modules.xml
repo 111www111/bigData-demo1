@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume-logs-kafka.iml" filepath="$PROJECT_DIR$/flume-logs-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-collector/log-collector.iml" filepath="$PROJECT_DIR$/log-collector/log-collector.iml" />
+    </modules>
+  </component>
+</project>
