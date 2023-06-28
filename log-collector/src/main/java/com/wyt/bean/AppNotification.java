@@ -1,4 +1,4 @@
-package com.baizhi.bean;
+package com.wyt.bean;
 /**
  * 消息通知日志
  */

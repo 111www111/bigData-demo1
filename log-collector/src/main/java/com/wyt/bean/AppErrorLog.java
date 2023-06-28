@@ -1,4 +1,4 @@
-package com.baizhi.bean;
+package com.wyt.bean;
 /**
  * 错误日志
  */

@@ -60,7 +60,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.baizhi.appclient.AppMain</mainClass>
+                            <mainClass>com.wyt.appclient.AppMain</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

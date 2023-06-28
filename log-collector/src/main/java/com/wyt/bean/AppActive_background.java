@@ -1,4 +1,4 @@
-package com.baizhi.bean;
+package com.wyt.bean;
 /**
  * 用户后台活跃
  */
