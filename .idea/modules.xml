@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
-      <module fileurl="file://$PROJECT_DIR$/flume-logs-kafka.iml" filepath="$PROJECT_DIR$/flume-logs-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume-logs-kafka/flume-logs-kafka.iml" filepath="$PROJECT_DIR$/flume-logs-kafka/flume-logs-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-job.iml" filepath="$PROJECT_DIR$/hadoop-job.iml" />
       <module fileurl="file://$PROJECT_DIR$/log-collector/log-collector.iml" filepath="$PROJECT_DIR$/log-collector/log-collector.iml" />
     </modules>
   </component>

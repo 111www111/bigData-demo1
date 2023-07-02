@@ -8,10 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="log-collector" />
         <module name="flume-logs-kafka" />
+        <module name="hadoop-job" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="flume-logs-kafka" target="1.8" />
+      <module name="hadoop-job" target="1.8" />
       <module name="log-collector" target="1.8" />
     </bytecodeTargetLevel>
   </component>

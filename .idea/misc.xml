@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/log-collector/pom.xml" />
         <option value="$PROJECT_DIR$/flume-logs-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/hadoop-job/pom.xml" />
       </list>
     </option>
   </component>
